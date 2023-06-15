@@ -7,4 +7,6 @@ My goal is to someday design schematics, PCB layouts, and solder on components f
 
 # Part 1: Designing a Custom CPU (Logisim)
 
-Designing a custom RISC-V 64-bit CPU
+Designing a custom RISC-V 64-bit CPU. Refer to my [CPU Repository](https://github.com/Dishoungh/cpu.git) for more information.
+
+# Part 2: TBD
